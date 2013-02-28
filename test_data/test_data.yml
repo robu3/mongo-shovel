@@ -1,0 +1,4 @@
+---
+Id: integer
+Price: float
+Cdate: datetime
